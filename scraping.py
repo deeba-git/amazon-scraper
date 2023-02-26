@@ -220,11 +220,4 @@ def save_to_csv():
 
 if __name__ == "__main__":
     looping_url()
-    # print(name_lst)
-    # print(price_lst)
-    # print(rating_lst)
-    # print(review_lst)
-    # print(desc_lst)
-    # print(asin_lst)
-    # print(manufacture_lst)
     save_to_csv()
